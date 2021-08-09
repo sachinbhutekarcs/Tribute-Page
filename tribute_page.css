@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+}
+#main {
+  background: silver;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0;
+  padding: 10px;
+}
+h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+}
+#img-div {
+  background: white;
+  margin: 1rem;
+  padding: 1rem;
+}
+#tribute-info {
+  text-align: justify;
+  padding: 10px 20%;
+  line-height: 2;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
